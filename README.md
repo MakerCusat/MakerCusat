@@ -1,17 +1,17 @@
-# Welcome to MAKERS CUSAT: Your Gateway to Innovation and Creation 🚀
+# Welcome to MAKER CUSAT: Your Gateway to Innovation and Creation 🚀
 
-Are you passionate about tinkering with technology, creating innovative projects, and exploring the world of Arduino, 3D printing, and IoT (Internet of Things) technologies? Look no further! MAKERS CUSAT is your vibrant community, born from the minds of college students like you, dedicated to fostering creativity, learning, and collaboration. 🛠️
+Are you passionate about tinkering with technology, creating innovative projects, and exploring the world of Arduino, 3D printing, and IoT (Internet of Things) technologies? Look no further! MAKER CUSAT is your vibrant community, born from the minds of college students like you, dedicated to fostering creativity, learning, and collaboration. 🛠️
 
 ## About Us ℹ️
-MAKERS CUSAT is not just a community; it's a mindset. We believe that the spirit of making, building, and inventing is what drives progress and innovation. Our community was founded by a group of like-minded college students at Cochin University of Science and Technology (CUSAT) who wanted to create a space where fellow students could come together to explore, experiment, and expand their horizons. 🌟
+MAKER CUSAT is not just a community; it's a mindset. We believe that the spirit of making, building, and inventing is what drives progress and innovation. Our community was founded by a group of like-minded college students at Cochin University of Science and Technology (CUSAT) who wanted to create a space where fellow students could come together to explore, experiment, and expand their horizons. 🌟
 
 ## Our Mission 🎯
-Our mission is clear: to provide a platform where aspiring makers can turn their ideas into reality. We're here to inspire, guide, and support you on your journey of discovery and creation. Whether you're a seasoned maker or a curious novice, MAKERS CUSAT welcomes everyone with open arms. 🌐
+Our mission is clear: to provide a platform where aspiring makers can turn their ideas into reality. We're here to inspire, guide, and support you on your journey of discovery and creation. Whether you're a seasoned maker or a curious novice, MAKER CUSAT welcomes everyone with open arms. 🌐
 
 ## What We Offer 🛠️
 1. **Workshops and Tutorials:** Our community hosts a wide range of workshops and tutorials on Arduino, 3D printing, and IoT technologies. From beginner-level introductions to advanced projects, we cover it all. Our aim is to equip you with the knowledge and skills you need to bring your ideas to life. 📚
 
-2. **Collaborative Projects:** At MAKERS CUSAT, we believe in the power of collaboration. Join forces with fellow makers to work on exciting projects. Whether it's designing a smart home system or creating a 3D-printed masterpiece, you'll find like-minded enthusiasts eager to team up and turn dreams into reality. 🤝
+2. **Collaborative Projects:** At MAKER CUSAT, we believe in the power of collaboration. Join forces with fellow makers to work on exciting projects. Whether it's designing a smart home system or creating a 3D-printed masterpiece, you'll find like-minded enthusiasts eager to team up and turn dreams into reality. 🤝
 
 3. **Access to Resources:** Our community offers access to a wealth of resources, including cutting-edge technology, 3D printers, and a wide range of electronic components. We provide a nurturing environment where you can experiment without limitations. 💡
 
